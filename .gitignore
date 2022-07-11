@@ -1,0 +1,11 @@
+obj/
+bin/
+packages/
+*.nuget.props
+project.lock.json
+gen/
+.xmake
+*.pyc
+*.suo
+.vs/
+*.csproj.user
